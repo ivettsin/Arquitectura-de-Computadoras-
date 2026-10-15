@@ -43,7 +43,7 @@ MAIN_LOOP:
 ;  Subrutina de retardo
 ; ============================================================
 DELAY:
-    ldi R18, 0x20
+    ldi R18, 0x10
 DELAY1:
     ldi R19, 0xFF
 DELAY2:
