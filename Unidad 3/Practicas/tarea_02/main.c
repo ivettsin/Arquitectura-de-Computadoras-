@@ -6,7 +6,7 @@
 #include <stdint.h>
 
 const uint16_t velocidades[]PROGMEM ={
-    500, 1000, 1500, 2000,2500, 3000,3500,4000
+    500, 1000, 2000, 3000,4000,5000, 6000, 7000
 };
 
 //permite cambiar el dalay  segun la combinacion 
